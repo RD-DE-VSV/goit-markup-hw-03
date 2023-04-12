@@ -390,6 +390,7 @@ img {
 .portfolio-wrapper {
   padding: 32px 16px;
   border: 1px solid var(--color-border-cornflower);
+  border-top: none;
 }
 .portfolio-subtitle {
   font-weight: 500;

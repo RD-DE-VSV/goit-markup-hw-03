@@ -371,6 +371,7 @@ img {
 */
 .portfolio {
   background-color: var(--color-bg-white);
+  padding-top: 96px;
 }
 .portfolio-title {
 }
@@ -401,12 +402,19 @@ img {
   color: var(--color-txt-main-slate);
 }
 .portfolio-filter-list {
+  justify-content: center;
   --item: 5;
+  margin-bottom: 72px;
 }
 .portfolio-filter-item {
 }
 .portfolio-filter-btn {
   color: var(--color-bg-btn-iris);
+  padding: 12px 24px;
+}
+.portfolio-filter-btn:hover,
+.portfolio-filter-btn:focus {
+  border: 1px solid transparent;
 }
 .portfolio-filter-btn:hover,
 .portfolio-filter-btn:focus {

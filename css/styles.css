@@ -249,7 +249,7 @@ img {
 */
 .features {
   background-color: var(--color-bg-white);
-  padding-bottom: 60px;
+  /* padding-bottom: 60px; */
 }
 .features-title {
 }
@@ -274,7 +274,7 @@ img {
 */
 .product {
   background-color: var(--color-bg-white);
-  padding-top: 60px;
+  padding-top: 0;
 }
 .product-title {
   font-weight: 700;

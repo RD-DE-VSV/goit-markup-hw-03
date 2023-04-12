@@ -356,10 +356,12 @@ img {
 .footer-item {
 }
 .footer-logo {
+  display: inline-block;
   padding: 0 0 16px 0;
 }
 .footer-undersubtitle {
   color: var(--color-txt-caption-cloud);
+  max-width: 264px;
 }
 /* 
   |==========================================================

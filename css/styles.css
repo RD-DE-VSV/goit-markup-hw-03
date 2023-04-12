@@ -368,27 +368,27 @@ img {
   | Portfolio styles
   |==========================================================
 */
-.cv {
+.portfolio {
   background-color: var(--color-bg-white);
 }
-.cv-title {
+.portfolio-title {
 }
-.cv-list {
+.portfolio-list {
 }
-.cv-item {
+.portfolio-item {
   --item: 3;
   border: 1px solid var(--color-border-cornflower);
 }
-.cv-item-link {
+.portfolio-item-link {
 }
-.cv-img {
+.portfolio-img {
   /* width: 360px;
   height: 300px; */
 }
-.cv-wrapper {
+.portfolio-wrapper {
   padding: 32px 16px;
 }
-.cv-subtitle {
+.portfolio-subtitle {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -396,18 +396,18 @@ img {
   color: var(--color-txt-caption-navy-blue);
   margin-bottom: 8px;
 }
-.cv-undersubtitle {
+.portfolio-undersubtitle {
   color: var(--color-txt-main-slate);
 }
-.cv-filter-list {
+.portfolio-filter-list {
   --item: 5;
 }
-.cv-filter-item {
+.portfolio-filter-item {
 }
-.cv-filter-btn {
+.portfolio-filter-btn {
   color: var(--color-bg-btn-iris);
 }
-.cv-filter-btn:hover,
-.cv-filter-btn:focus {
+.portfolio-filter-btn:hover,
+.portfolio-filter-btn:focus {
   color: var(--color-txt-white);
 }

@@ -229,7 +229,7 @@ img {
   text-align: center;
   letter-spacing: 0.02em;
   color: var(--color-txt-white);
-  width: 496px;
+  max-width: 496px;
   margin: 0 auto 48px auto;
 }
 .hero-btn {
@@ -240,7 +240,7 @@ img {
   border: 0;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   margin: 0 auto;
-  display: flex;
+  display: block;
 }
 /* 
   |==========================================================
